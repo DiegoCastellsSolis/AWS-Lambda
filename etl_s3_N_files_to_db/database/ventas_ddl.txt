@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS Ventas (
+    order_id INT PRIMARY KEY,
+    product VARCHAR(255),
+    quantity_ordered INT,
+    price_each DECIMAL(10, 2),
+    order_date DATE,
+    purchase_address VARCHAR(255)
+);
+ 

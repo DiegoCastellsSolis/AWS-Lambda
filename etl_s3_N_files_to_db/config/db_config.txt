@@ -1,0 +1,5 @@
+rdsejemplo
+postgres
+postgres
+rsd-ejemplo.csstjllcroqv.us-east-2.rds.amazonaws.com
+5432
